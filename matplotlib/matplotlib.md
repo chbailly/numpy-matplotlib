@@ -25,7 +25,7 @@ plt.show()
 
 
 
-![](.\example.png)
+![](example.png)
 
 # other types of graph
 
