@@ -48,7 +48,7 @@ pyplot.subplot(2, 2, 4)
 pyplot.bar(range(5), range(5), color = 'green')
 ```
 
-![](.\dispo.png)
+![](dispo.png)
 
 ## clean way
 ```python
